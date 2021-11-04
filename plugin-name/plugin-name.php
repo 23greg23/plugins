@@ -13,7 +13,7 @@
  * @package           Plugin_Name
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin testcase
+ * Plugin Name:       WordPress Plugin boilerplate testcase
  * Plugin URI:        http://example.com/plugin-name-uri/
  * Description:      Experiments in plugin dev
  * Version:           1.0.0
