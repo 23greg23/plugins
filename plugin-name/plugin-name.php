@@ -13,9 +13,9 @@
  * @package           Plugin_Name
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
+ * Plugin Name:       WordPress Plugin testcase
  * Plugin URI:        http://example.com/plugin-name-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:      Experiments in plugin dev
  * Version:           1.0.0
  * Author:            Your Name or Your Company
  * Author URI:        http://example.com/
